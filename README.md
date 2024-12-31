@@ -17,3 +17,4 @@
    ```bash
    git clone https://github.com/yourusername/repository-name.git
 2. direct view:
+   [https://knarlix.github.io/Happy-New-Year-2025-Janvi](https://knarlix.github.io/Happy-New-Year-2025-Janvi/)
