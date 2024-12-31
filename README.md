@@ -16,3 +16,4 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/repository-name.git
+2. direct view:
