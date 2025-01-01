@@ -9,7 +9,7 @@ const redirectTime = new Date('2025-01-01T12:05:00').getTime(); // Updated to 12
 function checkRedirect() {
   const now = new Date().getTime();
   if (now >= redirectTime) {
-    window.location.href = 'https://example.com';
+    window.location.href = 'https://knarlix.github.io/Dreamer/';
   }
 }
 
